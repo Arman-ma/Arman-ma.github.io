@@ -1,0 +1,512 @@
+@media (max-width: 575.98px) {
+	.container {
+		width: 90%;
+	}
+	.border_blu {
+		width: 130px;
+		text-align: center;
+	}
+	.ul_header .li_header {
+		display: none;
+	}
+	.border_blu {
+		display: block;
+		background: none;
+	}
+
+	.icon_kl .icon_displaynone {
+		display: block;
+	}
+
+	.barsandmenu {
+		display: block;
+	}
+	.barss {
+		padding-bottom: 20px;
+	}
+	.barss i {
+		display: block;
+	}
+
+	.barss:hover + .ul_header2 {
+		height: 300px;
+		background: #273053;
+		width: 100%;
+	}
+	.triomardik {
+		flex-wrap: wrap;
+		padding-top: 100px;
+	}
+	.oneimg {
+		width: 500px;
+		margin-top: 90px;
+	}
+	.vernagir {
+		width: 380px;
+		margin-top: 250px;
+		font-size: 40px;
+	}
+	.vernagir span {
+		font-size: 35px;
+	}
+	.twoblockcenter {
+		display: flex;
+		flex-direction: column;
+	}
+	.block1 {
+		width: 100%;
+	}
+	.block2 {
+		width: 100%;
+	}
+	.rovv {
+		display: flex;
+		flex-direction: column;
+	}
+	.relativdiv1 {
+		flex-direction: column;
+	}
+	.fff {
+		width: 100%;
+	}
+	.relativdivtext1 {
+		padding: 5px;
+		width: 100%;
+	}
+	.divtext1 {
+		width: 100%;
+	}
+	.luf span,
+	.luf {
+		font-size: 24px;
+	}
+	.kubik {
+		width: 100%;
+	}
+	.diveffect {
+		flex-direction: column;
+	}
+
+	.nkaruxan {
+		flex-direction: column;
+	}
+	.nkardivux {
+		width: 100%;
+	}
+	.textdivux {
+		width: 100%;
+	}
+	.flexnkar {
+		flex-direction: column;
+		align-items: center;
+	}
+	.divwid {
+		text-align: center;
+	}
+	.displayflex {
+		flex-direction: column;
+		align-items: center;
+	}
+	.divdol {
+		margin-bottom: 30px;
+		width: 250px;
+	}
+	.divdol2 {
+		width: 100%;
+	}
+	.bordtext {
+		width: 100%;
+	}
+	.bordtext2 {
+		width: 100%;
+	}
+	.takigic1 {
+		width: 500px;
+	}
+	.centermap {
+		flex-direction: column;
+		align-items: center;
+	}
+	.bottomdiv {
+		height: 250px;
+	}
+	.adresblock {
+		width: 350px;
+	}
+	.mapdiv {
+		width: 350px;
+	}
+	.topdiv h2 {
+		font-size: 35px;
+	}
+	.bactexts {
+		font-size: 40px;
+	}
+	.inps {
+		display: flex;
+		flex-direction: column;
+	}
+	textarea {
+		width: 200px;
+	}
+	.centerbac {
+		height: 600px;
+	}
+	.boldtext {
+		height: 100%;
+	}
+	.botton {
+		width: 200px;
+	}
+	.iconarow {
+		width: 90px;
+		height: 50px;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.container {
+		width: 80%;
+	}
+	.border_blu {
+		width: 130px;
+		text-align: center;
+	}
+	.ul_header .li_header {
+		display: none;
+	}
+	.border_blu {
+		display: block;
+		background: none;
+	}
+
+	.barsandmenu {
+		display: block;
+	}
+
+	.barss i {
+		display: block;
+	}
+	.barss:hover + .ul_header2 {
+		height: 300px;
+		background: #273053;
+	}
+	.triomardik {
+		flex-wrap: wrap;
+		padding-top: 50px;
+	}
+	.oneimg {
+		width: 500px;
+		margin-top: 100px;
+	}
+	.vernagir {
+		width: 550px;
+		margin-top: 200px;
+		font-size: 30px;
+	}
+	.twoblockcenter {
+		display: flex;
+		flex-direction: column;
+	}
+	.block1 {
+		width: 100%;
+	}
+	.block2 {
+		width: 100%;
+	}
+	.rovv {
+		display: flex;
+		flex-direction: column;
+	}
+	.relativdiv1 {
+		flex-direction: column;
+	}
+	.fff {
+		width: 100%;
+	}
+	.relativdivtext1 {
+		padding: 50px;
+	}
+	.kubik {
+		width: 100%;
+	}
+	.diveffect {
+		flex-direction: column;
+	}
+
+	.nkaruxan {
+		flex-direction: column;
+	}
+	.nkardivux {
+		width: 100%;
+	}
+	.textdivux {
+		width: 100%;
+	}
+	.flexnkar {
+		flex-direction: column;
+		align-items: center;
+	}
+	.divwid {
+		text-align: center;
+	}
+
+	.displayflex {
+		flex-direction: column;
+		align-items: center;
+	}
+	.divdol {
+		margin-bottom: 30px;
+		width: 400px;
+	}
+	.divdol2 {
+		width: 100%;
+	}
+	.bordtext {
+		width: 100%;
+	}
+	.bordtext2 {
+		width: 100%;
+	}
+	.takigic1 {
+		width: 500px;
+	}
+	.centermap {
+		flex-direction: column;
+		align-items: center;
+	}
+	.bottomdiv {
+		height: 250px;
+	}
+	.adresblock {
+		width: 600px;
+	}
+
+	.centermap {
+		flex-direction: column;
+		align-items: center;
+	}
+	.bottomdiv {
+		height: 250px;
+	}
+	.adresblock {
+		width: 350px;
+	}
+	.mapdiv {
+		width: 350px;
+	}
+	.topdiv h2 {
+		font-size: 35px;
+	}
+	.bactexts {
+		font-size: 40px;
+	}
+	.inps {
+		display: flex;
+		flex-direction: column;
+	}
+	textarea {
+		width: 200px;
+	}
+	.centerbac {
+		height: 600px;
+	}
+	.boldtext {
+		height: 100%;
+	}
+	.botton {
+		width: 400px;
+	}
+	.iconarow {
+		width: 110px;
+		height: 50px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.container {
+		width: 80%;
+	}
+
+	.ul_header .li_header {
+		display: none;
+	}
+	.border_blu {
+		display: block;
+		background: none;
+	}
+
+	.absolut_list {
+		position: absolute;
+		top: 102px;
+		list-style: none;
+		background: #273053;
+		width: 100%;
+	}
+	.absolut_list li {
+		padding: 10px 0px 10px 0px;
+		font-size: 18px;
+	}
+
+	.barss i {
+		display: block;
+	}
+	.center {
+		align-items: normal;
+	}
+
+	.barsandmenu {
+		display: block;
+	}
+
+	.barss:hover + .ul_header2 {
+		height: 300px;
+		background: #273053;
+	}
+	.triomardik {
+		flex-direction: column;
+		align-items: center;
+	}
+	.oneimg {
+		width: 330px;
+		margin-top: 50px;
+	}
+	.vernagir {
+		width: 600px;
+		margin-top: 70px;
+	}
+
+	.twoblockcenter {
+		display: flex;
+		flex-direction: column;
+	}
+	.block1 {
+		width: 100%;
+	}
+	.block2 {
+		width: 100%;
+	}
+	.centerrelativ h5 {
+		font-size: 18px;
+	}
+	.slacktextdiv h5 {
+		font-size: 18px;
+	}
+	.rovv {
+		display: flex;
+		flex-direction: column;
+	}
+	.relativdiv1 {
+		flex-direction: column;
+	}
+	.fff {
+		width: 100%;
+	}
+	.diveffect {
+		flex-direction: column;
+	}
+	.kubik {
+		width: 100%;
+	}
+	.nkaruxan {
+		flex-direction: column;
+	}
+	.nkardivux {
+		width: 100%;
+	}
+	.textdivux {
+		width: 100%;
+	}
+	.flexnkar {
+		flex-direction: column;
+		align-items: center;
+	}
+	.divwid {
+		text-align: center;
+	}
+
+	.displayflex {
+		flex-direction: column;
+		align-items: center;
+	}
+	.divdol {
+		margin-bottom: 30px;
+		width: 600px;
+	}
+	.divdol2 {
+		width: 100%;
+	}
+	.bordtext {
+		width: 100%;
+	}
+	.bordtext2 {
+		width: 100%;
+	}
+	.takigic1 {
+		width: 500px;
+	}
+	.centermap {
+		flex-direction: column;
+		align-items: center;
+	}
+	.bottomdiv {
+		height: 250px;
+	}
+	.adresblock {
+		width: 600px;
+	}
+	.botton {
+		width: 550px;
+	}
+	.iconarow {
+		width: 70px;
+		height: 50px;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.container {
+		width: 100%;
+	}
+	.vernagir {
+		width: 550px;
+	}
+	.displayflex {
+		flex-direction: column;
+		align-items: center;
+	}
+	.divdol {
+		margin-bottom: 30px;
+		width: 600px;
+	}
+	.divdol2 {
+		width: 100%;
+	}
+	.bordtext {
+		width: 100%;
+	}
+	.bordtext2 {
+		width: 100%;
+	}
+	.takigic1 {
+		width: 500px;
+	}
+	.centermap {
+		flex-direction: column;
+		align-items: center;
+	}
+	.bottomdiv {
+		height: 250px;
+	}
+	.adresblock {
+		width: 600px;
+	}
+	.takigic2 {
+		width: 1000px;
+	}
+}
+@media (min-width: 1200px) {
+	.barss {
+		display: none;
+	}
+}
